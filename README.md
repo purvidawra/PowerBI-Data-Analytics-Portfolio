@@ -37,5 +37,5 @@ If you’d like to explore the report:
 ## About Me
 **Purvi Dawra**  
 Aspiring Data Analyst skilled in Power BI, Excel, SQL, and Python.  
-📍 New Delhi, India  
+New Delhi, India  
 [LinkedIn Profile] https://www.linkedin.com/in/purvi-dawra-9248272a1
