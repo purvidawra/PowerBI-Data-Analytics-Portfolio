@@ -5,7 +5,7 @@ This project was created as part of my Data Analytics course to demonstrate end 
 It showcases how data can be cleaned, modeled and visualized to uncover key business insights and trends across different scenarios.
 
 ## Objective
-To design an interactive **Power BI dashboard** that converts raw data into meaningful insights and supports data driven decision-making.
+To design an interactive **Power BI dashboard** that converts raw data into meaningful insights and supports data driven decision making.
 
 ## Key Steps Performed
 - Data cleaning and transformation using Power Query  
