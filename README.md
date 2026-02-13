@@ -1,7 +1,7 @@
 # PowerBI-Data-Analytics-Portfolio
 
 ## Project Overview
-This project was created as part of my Data Analytics course to demonstrate end-to-end analytical skills using **Power BI**.  
+This project was created as part of my Data Analytics course to demonstrate end to end analytical skills using **Power BI**.  
 It showcases how data can be cleaned, modeled and visualized to uncover key business insights and trends across different scenarios.
 
 ## Objective
