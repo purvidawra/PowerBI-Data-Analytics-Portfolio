@@ -1,6 +1,5 @@
 # Power BI Data Analytics Portfolio
 
-**Author:** Purvi Dawra
 **Tools Used:** Power BI Desktop | Microsoft Excel | DAX | Power Query
 
 ---
